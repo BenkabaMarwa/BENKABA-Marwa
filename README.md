@@ -22,7 +22,8 @@
 ---
 
 ## 📫 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/marwa-benkaba-916090329/ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/marwa-benkaba-916090329/)  
+ 
 
 ---
 
