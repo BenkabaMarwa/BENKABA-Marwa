@@ -27,3 +27,6 @@
 ---
 
 ⭐️ Thanks for visiting my profile!  
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BenkabaMarwa&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenkabaMarwa&layout=compact&theme=tokyonight)  
