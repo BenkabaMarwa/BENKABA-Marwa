@@ -23,7 +23,6 @@
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/marwa-benkaba-916090329/)  
- 
 
 ---
 
@@ -53,3 +52,6 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BenkabaMarwa&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenkabaMarwa&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BenkabaMarwa&theme=tokyonight&hide_border=true)
+
+
