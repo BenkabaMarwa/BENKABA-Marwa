@@ -80,8 +80,29 @@
 
 ⭐️ Thanks for visiting my profile!  
 
+---
+
+## 📊 GitHub Stats  
+
+### 🔹 General Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BenkabaMarwa&show_icons=true&theme=tokyonight)  
+
+### 🔹 Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenkabaMarwa&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BenkabaMarwa&theme=tokyonight&hide_border=true)
+
+### 🔹 Contribution Streak  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BenkabaMarwa&theme=tokyonight&hide_border=true)  
+
+### 🔹 Trophies 🏆  
+![trophy](https://github-profile-trophy.vercel.app/?username=BenkabaMarwa&theme=tokyonight&row=1&column=7)  
+
+### 🔹 Activity Graph 📈  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BenkabaMarwa&theme=tokyo-night)  
+
+### 🔹 Profile Visitors 👀  
+![Visitor Count](https://komarev.com/ghpvc/?username=BenkabaMarwa&style=for-the-badge&color=blue)  
+
+---
+
 
 
