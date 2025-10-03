@@ -11,7 +11,9 @@
 - **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
 - **Backend:** Python, Java, PHP (Laravel), Node.js, Express  
 - **Databases:** MySQL, PostgreSQL, SQLite, MongoDB  
-- **Tools:** Git, GitHub, Figma, VS Code, WordPress, Firebase  
+- **Tools:** Git, GitHub, Figma, VS Code, WordPress, Firebase
+- **Cyber Security:** Ethical Hacking, Penetration Testing, Network Security, Linux, Kali Linux  
+  
 
 ---
 
@@ -39,6 +41,17 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)  
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?logo=visualstudiocode&logoColor=fff&style=for-the-badge)  
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=for-the-badge)  
+
+---
+
+## 🔐 Cyber Security Stack  
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)  
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?logo=kalilinux&logoColor=fff&style=for-the-badge)  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=fff&style=for-the-badge)  
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?logo=burpsuite&logoColor=fff&style=for-the-badge)  
+![Nmap](https://img.shields.io/badge/Nmap-004170?logo=nmap&logoColor=fff&style=for-the-badge)  
+![Metasploit](https://img.shields.io/badge/Metasploit-2A6DB2?logo=metasploit&logoColor=fff&style=for-the-badge)  
 
 ---
 
