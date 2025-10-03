@@ -55,6 +55,18 @@
 
 ---
 
+## 📚 Currently Learning  
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=fff&style=for-the-badge)  
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=fff&style=for-the-badge)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge)  
+![Cyber Security](https://img.shields.io/badge/Cyber_Security-000000?logo=hackthebox&logoColor=fff&style=for-the-badge)  
+![AI Security](https://img.shields.io/badge/AI%20Security-FF6F00?logo=openai&logoColor=fff&style=for-the-badge)  
+
+---
+
 ## 📂 Projects
 🚧 Currently working on personal projects (local).  
 📌 I will be publishing my work here soon — stay tuned!  
