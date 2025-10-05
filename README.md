@@ -76,7 +76,11 @@
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/marwa-benkaba-916090329/)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/marwa-benkaba-916090329/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50"/>
+  </a>
+</p>
 
 ---
 
