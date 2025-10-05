@@ -81,6 +81,10 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/marwa-benkaba-916090329/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50"/>
+  </a>  
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/BenkabaMarwa" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50"/>
   </a>
 </p>
 
