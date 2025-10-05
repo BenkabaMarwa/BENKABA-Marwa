@@ -1,9 +1,11 @@
-# BENKABA-Marwa
-"Welcome to my GitHub profile"
 
-# 👋 Hi, I'm BENKABA Marwa
+<div align="center">
+
+# 👋 Hi, I'm BENKABA Marwa  
 
 💻 Aspiring Application & Web Developer | 🚀 Passionate about learning new technologies  
+
+</div>
 
 ---
 
