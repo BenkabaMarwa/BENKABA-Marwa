@@ -10,6 +10,7 @@
 ---
 
 ## 🛠 Skills
+
 - **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
 - **Backend:** Python, Java, PHP (Laravel), Node.js, Express  
 - **Databases:** MySQL, PostgreSQL, SQLite, MongoDB  
@@ -72,12 +73,14 @@
 ---
 
 ## 📂 Projects
+
 🚧 Currently working on personal projects (local).  
 📌 I will be publishing my work here soon — stay tuned!  
 
 ---
 
 ## 📫 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/marwa-benkaba-916090329/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50"/>
@@ -93,35 +96,34 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <!-- General Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=BenkabaMarwa&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenkabaMarwa&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenkabaMarwa&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenkabaMarwa&layout=compact&theme=tokyonight" alt="Top Langs" height="160"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies  
+## 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BenkabaMarwa&theme=tokyonight&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-## 📈 Activity Graph  
+## 📈 Activity Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BenkabaMarwa&theme=tokyo-night" alt="GitHub Activity Graph"/>
 </p>
 
 ---
 
-## 👀 Profile Visitors  
+## 👀 Profile Visitors 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BenkabaMarwa&style=for-the-badge&color=blue" alt="Visitor Count"/>
   <p align="center"> ⭐️ Thanks for visiting my profile ⭐️ </p>
