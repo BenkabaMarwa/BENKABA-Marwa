@@ -106,11 +106,11 @@
 
 ---
 
-<!-- ## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BenkabaMarwa&theme=tokyonight&row=1&column=7" alt="GitHub Trophies"/>
-</p> -->
+</p>
 ---
 
 ## 📈 Activity Graph
