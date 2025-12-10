@@ -69,6 +69,7 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge)  
 ![Cyber Security](https://img.shields.io/badge/Cyber_Security-000000?logo=hackthebox&logoColor=fff&style=for-the-badge)  
 ![AI Security](https://img.shields.io/badge/AI%20Security-FF6F00?logo=openai&logoColor=fff&style=for-the-badge)  
+![Hadoop](https://img.shields.io/badge/Hadoop-FFCC00?logo=apachehadoop&logoColor=000&style=for-the-badge)
 
 ---
 
