@@ -96,14 +96,22 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BenkabaMarwa&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenkabaMarwa&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/> -->
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenkabaMarwa&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/> 
+</p> -->
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=BenkabaMarwa&theme=tokyonight&show_icons=true" height="160"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenkabaMarwa&layout=compact&theme=tokyonight" alt="Top Langs" height="160"/>
+</p> -->
+
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=BenkabaMarwa&layout=compact&theme=tokyonight&langs_count=5" height="180"/>
 </p>
+
 
 ---
 
