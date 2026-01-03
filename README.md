@@ -83,43 +83,57 @@
 ## 📫 Connect with Me
 
 <p align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/marwa-benkaba-916090329/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50"/>
-  </a>  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50"/>
+  </a>
   &nbsp;&nbsp;&nbsp;
+
+  <!-- GitHub -->
   <a href="https://github.com/BenkabaMarwa" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Facebook -->
   <a href="https://www.facebook.com/USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_(2019).png" width="50"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Instagram -->
   <a href="https://www.instagram.com/USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg"
-         alt="Instagram"
-         width="50"
-         style="filter: invert(20%)"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="50"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- X / Twitter -->
   <a href="https://x.com/USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X / Twitter" width="50"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X / Twitter" width="50"/>
+</a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- YouTube -->
   <a href="https://www.youtube.com/@USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg"
-         alt="YouTube"
-         width="50"
-         style="filter: invert(20%)"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_(2017).svg"
+         width="50"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Email -->
   <a href="mailto:yourmail@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="50"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Telegram -->
   <a href="https://t.me/USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/telegram.svg"
-         alt="Telegram"
-         width="50"
-         style="filter: invert(20%)"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="50"/>
   </a>
-
-
 </p>
+
+
+
 
 ---
 
