@@ -90,6 +90,10 @@
   <a href="https://github.com/BenkabaMarwa" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50"/>
   </a>
+  <a href="https://www.facebook.com/USERNAME" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="50"/>
+  </a>
+
 </p>
 
 ---
