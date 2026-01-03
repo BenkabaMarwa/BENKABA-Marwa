@@ -96,6 +96,12 @@
   <a href="https://www.instagram.com/USERNAME" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="50"/>
   </a>
+  <a href="https://x.com/USERNAME" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X / Twitter" width="50"/>
+  </a>
+  <a href="https://www.youtube.com/@USERNAME" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" alt="YouTube" width="50"/>
+  </a>
 
 </p>
 
