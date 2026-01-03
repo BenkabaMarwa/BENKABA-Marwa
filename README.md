@@ -94,20 +94,30 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="50"/>
   </a>
   <a href="https://www.instagram.com/USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="50"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg"
+         alt="Instagram"
+         width="50"
+         style="filter: invert(20%)"/>
   </a>
   <a href="https://x.com/USERNAME" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X / Twitter" width="50"/>
   </a>
   <a href="https://www.youtube.com/@USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" alt="YouTube" width="50"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg"
+         alt="YouTube"
+         width="50"
+         style="filter: invert(20%)"/>
   </a>
   <a href="mailto:yourmail@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="50"/>
   </a>
   <a href="https://t.me/USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" alt="Telegram" width="50"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/telegram.svg"
+         alt="Telegram"
+         width="50"
+         style="filter: invert(20%)"/>
   </a>
+
 
 </p>
 
