@@ -102,6 +102,9 @@
   <a href="https://www.youtube.com/@USERNAME" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" alt="YouTube" width="50"/>
   </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="50"/>
+  </a>
 
 </p>
 
